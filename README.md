@@ -1,5 +1,5 @@
 ## Hi there 👋
-I’m Dima, a programmer from Russia.
+I’m [Dima](https://t.me/dmitriykutyrev), a programmer from Russia.
 
 I love designing and creating whatever I can imagine.
 
@@ -9,4 +9,4 @@ My main tool right now is Java and IntelliJ IDEA. I also have huge respect for p
 
 I don’t have many repositories yet, as I’m still new to GitHub.
 
-You can find me on Telegram under @dmitriykutyrev.
+You can find me on Telegram under [@dmitriykutyrev](https://t.me/dmitriykutyrev).
